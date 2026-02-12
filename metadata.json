@@ -1,0 +1,8 @@
+{
+  "name": "SevaSetu AI",
+  "description": "A centralized, AI-powered digital governance platform for Indian public services and grievance management, enhancing transparency and administrative efficiency.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
